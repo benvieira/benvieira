@@ -1,6 +1,6 @@
 #  Sobre mim:
 
-🎓 Estudante de Análise e Desenvolvimento de sistemas<br>🖥️ Construindo uma carreira como desenvolvedor Backend<br>🌱 Aprendendo mais sobre KOTLIN, PYTHON, DJANGO e em tecnologia no geral<br>👀 Em busca de estágio como primeiro passo na carreira de tecnologia<br>
+🎓 Estudante de Análise e Desenvolvimento de sistemas<br>🖥️ Construindo uma carreira como desenvolvedor Backend<br>🌱 Aprendendo mais sobre KOTLIN, PYTHON, DJANGO e tecnologia no geral<br>👀 Em busca de estágio como primeiro passo na carreira de tecnologia<br>
 
 ## 🌐 Conecte-se comigo:
 
